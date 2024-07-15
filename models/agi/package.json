@@ -1,0 +1,24 @@
+{
+  "name": "agi",
+  "version": "1.0.0",
+  "description": "Artificial General Intelligence Framework",
+  "main": "agi.js",
+  "scripts": {
+    "start": "node agi.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "KOSASIH",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "brain.js": "^2.0.0",
+    "tensorflow": "^2.3.0",
+    "natural": "^0.7.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "eslint": "^7.14.0"
+  }
+}
