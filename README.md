@@ -36,7 +36,7 @@ FTL-Nexus is an open-source project, and we welcome contributions from researche
 
 # License
 
-FTL-Nexus is licensed under the MIT License.
+FTL-Nexus is licensed under the Apache 2.0 License.
 
 # Acknowledgments
 
