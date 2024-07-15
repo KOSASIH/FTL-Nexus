@@ -22,8 +22,8 @@ FTL-Nexus is a revolutionary propulsion system that enables faster-than-light (F
 
 ## Installation
 
-- Clone the repository: git clone https://github.com/KOSASIH/FTL-Nexus.git
-- Install required dependencies: pip install -r requirements.txt
+- Clone the repository: `git clone https://github.com/KOSASIH/FTL-Nexus.git`
+- Install required dependencies: `pip install -r requirements.txt`
 - Configure your development environment according to the provided instructions
 
 # Contributing
@@ -40,7 +40,7 @@ FTL-Nexus is licensed under the Apache 2.0 License.
 
 # Acknowledgments
 
-We acknowledge the contributions of [list any relevant organizations, researchers, or individuals] to the development of FTL-Nexus.
+We acknowledge the ccontribution of all team member and all contributors to the development of FTL-Nexus.
 
 # Contact
 
